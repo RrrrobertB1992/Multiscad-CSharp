@@ -1,0 +1,14 @@
+C:\CProjects\MultiScad\MultiScad\bin\Debug\MultiScad.exe.config
+C:\CProjects\MultiScad\MultiScad\bin\Debug\MultiScad.exe
+C:\CProjects\MultiScad\MultiScad\bin\Debug\MultiScad.pdb
+C:\CProjects\MultiScad\MultiScad\obj\Debug\MultiScad.About.resources
+C:\CProjects\MultiScad\MultiScad\obj\Debug\MultiScad.MainForm.resources
+C:\CProjects\MultiScad\MultiScad\obj\Debug\MultiScad.MenuIcons.resources
+C:\CProjects\MultiScad\MultiScad\obj\Debug\MultiScad.csproj.GenerateResource.cache
+C:\CProjects\MultiScad\MultiScad\obj\Debug\MultiScad.csproj.CoreCompileInputs.cache
+C:\CProjects\MultiScad\MultiScad\obj\Debug\MultiScad.exe
+C:\CProjects\MultiScad\MultiScad\obj\Debug\MultiScad.pdb
+C:\CProjects\MultiScad\MultiScad\obj\Debug\MultiScad.csprojAssemblyReference.cache
+C:\CProjects\MultiScad\MultiScad\obj\Debug\MultiScad.LoadingSVGFile.resources
+C:\CProjects\MultiScad\MultiScad\bin\Debug\convert.exe
+C:\CProjects\MultiScad\MultiScad\obj\Debug\MultiScad.LayerForm.resources

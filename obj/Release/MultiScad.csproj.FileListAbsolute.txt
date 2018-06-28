@@ -1,0 +1,9 @@
+C:\CProjects\MultiScad\MultiScad\bin\Release\MultiScad.exe.config
+C:\CProjects\MultiScad\MultiScad\bin\Release\MultiScad.exe
+C:\CProjects\MultiScad\MultiScad\obj\Release\MultiScad.csprojAssemblyReference.cache
+C:\CProjects\MultiScad\MultiScad\obj\Release\MultiScad.MainForm.resources
+C:\CProjects\MultiScad\MultiScad\obj\Release\MultiScad.MenuIcons.resources
+C:\CProjects\MultiScad\MultiScad\obj\Release\MultiScad.csproj.GenerateResource.cache
+C:\CProjects\MultiScad\MultiScad\obj\Release\MultiScad.csproj.CoreCompileInputs.cache
+C:\CProjects\MultiScad\MultiScad\obj\Release\MultiScad.exe
+C:\CProjects\MultiScad\MultiScad\obj\Release\MultiScad.About.resources
